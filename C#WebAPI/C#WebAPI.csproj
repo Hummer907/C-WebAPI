@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="models\" />
+    <PackageReference Include="MinimalApis.Extensions" Version="0.11.0" />
   </ItemGroup>
 
 </Project>
